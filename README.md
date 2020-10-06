@@ -12,7 +12,7 @@ So far I have tested the installation procedure in CentOS 7 and in Ubuntu 20.04 
 
 ### Installation
 
-git clone https://github.com/mgomezAstro/ShellSpec_GUI.git
+`git clone https://github.com/mgomezAstro/ShellSpec_GUI.git`
 
 Then run qmake in the Top Level directory (e.g., ShellSpec). This will create the Makefile with the paths to qt5 headers found in your machine. Finally, run "make" to create the executable (e.g., ShellSpec.sh).
 
