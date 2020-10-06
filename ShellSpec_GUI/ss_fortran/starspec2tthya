@@ -1,0 +1,8 @@
+#ntemp, number of different temperatures of the models
+2
+#temperatures [K], one per line
+4360.
+4750.
+#file names with spectra for each temperature, one per line
+starspec2t436g26k2
+starspec2t475g25k2

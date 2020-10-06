@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>The main failes.</DisplayName>
+    <Description>Install ShellSpec GUI applocation.</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2020-01-23</ReleaseDate>
+    <Licenses>
+        <License name="GNU license." file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>shellspec.ui</UserInterface>
+    </UserInterfaces>
+</Package>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/green_button.xpm</file>
+        <file>icons/red_button.xpm</file>
+    </qresource>
+</RCC>

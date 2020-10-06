@@ -1,0 +1,57 @@
+  Porbst[d]  istar  icomp
+   0.0000000000000000                0           1
+     xstar      ystar      zstar      vxst       vyst       vzst
+  0.000E+00  0.000E+00  0.100E+01  0.000E+00 -0.303E+07  0.000E+00
+     vrxcp      vrycp      vrzcp      vxcp       vycp       vzcp
+  0.000E+00  0.000E+00  0.100E+01  0.000E+00 -0.303E+07  0.000E+00
+       xcp        ycp        zcp      
+  0.000E+00  0.000E+00  0.696E+11
+  No. of sp. lines considered:           0
+ abhyd=0.908 abhel=0.100 wm=0.130E+01
+ nbod1=  71 nbod2=  71 nbod3=  71 nfreq=  57
+ output for:  ionu=  1 ior=  1 iot=  1
+i=  82.00  alpha=   0.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha=  45.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha=  90.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 135.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 180.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 225.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 270.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 315.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.00  alpha= 360.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+

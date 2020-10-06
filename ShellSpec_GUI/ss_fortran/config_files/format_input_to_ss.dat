@@ -1,0 +1,179 @@
+stream<<
+stream<<alam1<< " "<<alamn<< " "<<alams<< " "<<loglam<< " "<<cutoff
+stream<<
+stream<<imodel<< " "<<irotat<< " "<<ipart<< " "<<ichemc<< " "<<ielnd
+stream<<
+stream<<ithom<< " "<<irayl<< " "<<imie<< " "<<imiepf<< " "<<ihyd<< " "<<iopac<< " "<<iline<< " "<<eps	
+stream<<
+stream<<ionu<< " "<<ior<< " "<<iot<< " "<<offset
+stream<<
+stream<<phase1<< " "<<phasen<< " "<<nphase<< " "<<dinc
+stream<<
+stream<<dd
+stream<<
+stream<<
+stream<<lunt1<< " "<<xunt1<< " "<<yunt1
+stream<<
+stream<<lunt2<< " "<<xunt2<< " "<<yunt2
+stream<<
+stream<<lunt3<< " "<<xunt3<< " "<<yunt3
+stream<<
+stream<<
+stream<<rmdfx1<< " "<<rmdfx2<< " "<<rmdfy1<< " "<<rmdfy2<< " "<<rmdfz1<< " "<<rmdfz2<< " "<<rmdfx3<< " "<<rmdfx4
+stream<<
+stream<<stepf<< " "<<stepfz<< " "<<gainfx<< " "<<gainfy<< " "<<gainfz
+stream<<
+stream<<
+stream<<rmdx1<< " "<<rmdx2<< " "<<rmdy1<< " "<<rmdy2<< " "<<rmdz1<< " "<<rmdz2<< " "<<rmdz3<< " "<<rmdz4
+stream<<
+stream<<steps<< " "<<stepsz<< " "<<gainx<< " "<<gainy<< " "<<gainz
+stream<<
+stream<<
+
+stream<<istar<< " "<<icomp<< " "<<ienv<< " "<<ispot<< " "<<ism<< " "<<iring<< " "<<idisc
+stream<<
+stream<<inebl<< " "<<iflow<< " "<<ijet<< " "<<iufo<< " "<<ishell
+stream<<
+stream<<
+stream<<rstar<< " "<<tstar<< " "<<emstar
+stream<<
+stream<<xstar<< " "<<ystar<< " "<<zstar<< " "<<vrotst
+stream<<
+stream<<idifst<< " "<<drotst<< " "<<hst
+stream<<
+stream<<vxst<< " "<<vyst<< " "<<vzst
+stream<<
+stream<<dlst<< " "<<dlst2<< " "<<dgst<< " "<<ffst
+stream<<
+stream<<irrst<< " "<<ialbst<< " "<<albst<< " "<<htst<< " "<<htsta        
+stream<<
+stream<<ispst<< " "<<xspst<< " "<<yspst<< " "<<zspst<< " "<<aspst<< " "<<tspst
+stream<<
+stream<<
+stream<<rcp<< " "<<tempcp<< " "<<qq
+stream<<
+stream<<vrxcp<< " "<<vrycp<< " "<<vrzcp<< " "<<vrotcp
+stream<<
+stream<<xcp<< " "<<ycp<< " "<<zcp
+stream<<
+stream<<vxcp<< " "<<vycp<< " "<<vzcp	
+stream<<
+stream<<dlcp<< " "<<dlcp2<< " "<<dgcp<< " "<<ffcp
+stream<<
+stream<<irrcp<< " "<<ialbcp<< " "<<albcp<< " "<<htcp<< " "<<htcpa	
+stream<<
+stream<<
+stream<<emen<< " "<<qqen<< " "<<aen<< " "<<ffen<< " "<<hen
+stream<<
+stream<<tempen<< " "<<densen<< " "<<aneen<< " "<<vtrben<< " "<<dstden<< " "<<dstten
+stream<<
+stream<<
+stream<<vrxsp<< " "<<vrysp<< " "<<vrzsp<< " "<<vrotsp<< " "<<rsp
+stream<<
+stream<<xsp<< " "<<ysp<< " "<<zsp<< " "<<vxsp<< " "<<vysp<< " "<<vzsp
+stream<<
+stream<<tempsp<< " "<<denssp<< " "<<anesp<< " "<<vtrbsp<< " "<<dstdsp<< " "<<dsttsp
+stream<<
+stream<<
+stream<<v1sm<< " "<<v2sm<< " "<<r1sm<< " "<<r2sm
+stream<<
+stream<<x1sm<< " "<<y1sm<< " "<<z1sm
+stream<<
+stream<<x2sm<< " "<<y2sm<< " "<<z2sm
+stream<<
+stream<<vxsm<< " "<<vysm<< " "<<vzsm
+stream<<
+stream<<xsm<< " "<<ysm<< " "<<zsm<< " "<<psm
+stream<<
+stream<<tempsm<< " "<<denssm<< " "<<anesm<< " "<<vtrbsm<< " "<<edensm<< " "<<dstdsm<< " "<<dsttsm
+stream<<
+stream<<
+stream<<rrg<< " "<<emrg
+stream<<
+stream<<b1rg<< " "<<b2rg
+stream<<
+stream<<a1rg<< " "<<a2rg<< " "<<dr1rg<< " "<<dr2rg
+stream<<
+stream<<xrg<< " "<<yrg<< " "<<zrg
+stream<<
+stream<<xpolrg<< " "<<ypolrg<< " "<<zpolrg
+stream<< 
+stream<<vxrg<< " "<<vyrg<< " "<<vzrg
+stream<< 
+stream<<temprg<< " "<<densrg<< " "<<anerg<< " "<<vtrbrg<< " "<<itrg
+stream<<
+stream<<edenrg<< " "<<dstdrg<< " "<<ede2rg<< " "<<dst2rg<< " "<<dsttrg
+stream<<	
+stream<<
+stream<<adisc<< " "<<rindc<< " "<<routdc<< " "<<emdc<< " "<<rdc
+stream<<
+stream<<xdc<< " "<<ydc<< " "<<zdc
+stream<<
+stream<<xdisc<< " "<<ydisc<< " "<<zdisc
+stream<<
+stream<<vxdc<< " "<<vydc<< " "<<vzdc
+stream<<
+stream<<tempdc<< " "<<densdc<< " "<<anedc<< " "<<vtrbdc<< " "<<edendc<< " "<<itdc<< " "<<etmpdc
+stream<<
+stream<<dstddc<< " "<<dsttdc
+stream<<	
+stream<<
+stream<<aneb<< " "<<rinnb<< " "<<routnb<< " "<<emnb<< " "<<rnb
+stream<<
+stream<<hinvnb<< " "<<tinvnb<< " "<<hwindnb<< " "<<idennb
+stream<<
+stream<<xneb<< " "<<yneb<< " "<<zneb
+stream<<
+stream<<vxnb<< " "<<vynb<< " "<<vznb
+stream<<
+stream<<tempnb<< " "<<densnb<< " "<<anenb<< " "<<vtrbnb<< " "<<edennb<< " "<<itnb<< " "<<etmpnb
+stream<<
+stream<<dstdnb<< " "<<dsttnb
+stream<<
+stream<<
+stream<<v1fw<< " "<<v2fw<< " "<<r1fw<< " "<<r2fw
+stream<<
+stream<<x1fw<< " "<<y1fw<< " "<<z1fw
+stream<<
+stream<<x2fw<< " "<<y2fw<< " "<<z2fw
+stream<<
+stream<<vxfw<< " "<<vyfw<< " "<<vzfw
+stream<<
+stream<<xfw<< " "<<yfw<< " "<<zfw<< " "<<pfw        
+stream<<
+stream<<tempfw<< " "<<densfw<< " "<<anefw<< " "<<vtrbfw<< " "<<edenfw<< " "<<dstdfw<< " "<<dsttfw
+stream<<
+stream<<
+stream<<ajet<< " "<<rinjt<< " "<<routjt<< " "<<vjt
+stream<<
+stream<<xjet<< " "<<yjet<< " "<<zjet
+stream<<
+stream<<vxjt<< " "<<vyjt<< " "<<vzjt
+stream<<
+stream<<tempjt<< " "<<densjt<< " "<<anejt<< " "<<vtrbjt<< " "<<dstdjt<< " "<<dsttjt
+stream<<
+stream<<
+stream<<aufo<< " "<<rinuf<< " "<<routuf<< " "<<emuf<< " "<<ruf
+stream<<
+stream<<xuf<< " "<<yuf<< " "<<zuf
+stream<<
+stream<<xufo<< " "<<yufo<< " "<<zufo
+stream<<
+stream<<vxuf<< " "<<vyuf<< " "<<vzuf
+stream<<
+stream<<tempuf<< " "<<densuf<< " "<<aneuf<< " "<<vtrbuf<< " "<<edenuf<< " "<<ituf<< " "<<etmpuf
+stream<<
+stream<<dstduf<< " "<<dsttuf
+stream<<
+stream<<
+stream<<rinsh<< " "<<routsh<< " "<<vsh
+stream<<
+stream<<evelsh<< " "<<rcsh
+stream<<
+stream<<vxsh<< " "<<vysh<< " "<<vzsh	
+stream<<
+stream<<tempsh<< " "<<denssh<< " "<<anesh<< " "<<vtrbsh<< " "<<dstdsh<< " "<<dsttsh
+stream<<
+stream<<
+stream<<temp0<< " "<<dens0<< " "<<ane0<< " "<<v0
+

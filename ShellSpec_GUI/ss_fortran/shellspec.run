@@ -1,0 +1,90 @@
+#!/bin/sh
+#to run the script: sh shellspec.run
+
+#delete old output
+rm shellspec.out
+rm fort.*
+rm shellspectrum
+rm lightcurve
+
+#assemble new input
+
+
+#example A
+#primary+disc
+echo 
+echo 'example A'
+cp shellspec.in39a shellspec.in
+cp line.dat line.dat
+cp abundances abundances
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39a.gnu
+#exit
+
+#example B
+#primary+secondary
+echo
+echo 'example B'
+cp shellspec.in39b shellspec.in
+cp line.dat line.dat
+cp starspec1example starspec1
+cp starspec2example starspec2
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39b.gnu
+#exit
+
+#example C
+#primary+disc; the same as .in39a but the model is loaded
+#from the file shellspec.mod so the result is not exactly identical
+echo
+echo 'example C'
+cp shellspec.in39c shellspec.in
+cp line.dat line.dat
+cp shellspec.mod shellspec.mod
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39c.gnu
+#exit
+
+#example D
+#primary+secondary+disc+stream; real case of TT Hya
+echo
+echo 'example D'
+cp shellspec.in39d shellspec.in
+cp line.dat line.dat
+cp abundances abundances
+cp starspec1tthya starspec1
+cp starspec2tthya starspec2
+cp phasestthya phases
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39d.gnu
+#exit
+
+#example E
+#lightcurve of the irradiated extrasolar planet Wasp-12b
+echo
+echo 'example E'
+cp shellspec.in39e shellspec.in
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39e.gnu
+#exit
+
+#example F
+#star(out of grid) irradiating a spherical dust cloud
+echo
+echo 'example F'
+cp shellspec.in39f shellspec.in
+cp dust_opac dust_opac
+cp mie_phase mie_phase
+./shellspec
+echo 'shellspec is over'
+gnuplot shellspec39f.gnu
+#exit
+
+echo
+echo 'example runs and tests are over'
+exit

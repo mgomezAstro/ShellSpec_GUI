@@ -1,0 +1,6 @@
+#ntemp, number of different temperatures of the models
+1
+#temperatures [K], one per line
+9800.
+#file names with spectra for each temperature, one per line
+t9800

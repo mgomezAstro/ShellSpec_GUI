@@ -1,0 +1,49 @@
+Dear new user,
+here are some instructions how to install and run the code 
+SHELLSPEC/ver.39 under Linux. It is distributed in one gzipped 
+and tarred file: shellspec.tar.gz
+A complete manual can be found in the file shellspec39.ps
+(see mainly chapters: compilation, input, output).
+This manual is an updated version of the original manual published 
+along with some examples in:
+Budaj, J., Richards, M. 2004, 
+Contrib. Astron. Obs. Skalnate Pleso, 34, 167
+
+-make the new directory e.g. shell
+	mkdir shell
+
+-copy the file into this directory
+	cp shellspec.tar.gz shell/
+
+-go into this directory
+	cd shell
+
+-unzip the file:
+	gunzip shellspec.tar.gz
+
+-untar the file:
+	tar xvf shellspec.tar
+
+(this will extract many files, the most important are:
+shellspec39.f    -main fortran source code
+param.inc39      -fortran include file with dimensation of arrays
+pfdwor.inc       -fortran include file with partition functions
+shellspec39.ps   -updated manual)
+
+-compile the source code:
+	sh compile
+
+-run the example-test calculations with a few examples:
+	sh shellspec.run
+
+This will plot the output using gnuplot and compare it with 
+the test output.
+
+I would appreciate any your comments, suggestions, feedback or any 
+bug/error reports. 
+
+With my best wishes,
+Jan Budaj
+budaj@ta3.sk, http://www.ta3.sk/~budaj/
+
+Tatranska Lomnica, Sep.24, 2015

@@ -1,0 +1,58 @@
+  Porbst[d]  istar  icomp
+   0.0000000000000000                1           1
+     xstar      ystar      zstar      vxst       vyst       vzst
+  0.000E+00  0.000E+00  0.100E+01  0.000E+00 -0.137E+08  0.000E+00
+     vrxcp      vrycp      vrzcp      vxcp       vycp       vzcp
+  0.000E+00  0.000E+00  0.100E+01  0.000E+00  0.137E+08  0.000E+00
+       xcp        ycp        zcp      
+  0.696E+12  0.000E+00  0.000E+00
+  No. of sp. lines considered:           1
+ elem= H   iat=  1 hmc=  1.0080 nion=  2 abund=0.100E+01
+ abhyd=0.908 abhel=0.100 wm=0.130E+01
+ nbod1=  71 nbod2=  71 nbod3=  71 nfreq= 171
+ output for:  ionu=  1 ior=  1 iot=  1
+i=  82.84  alpha=   0.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha=  45.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha=  90.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 135.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 180.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 225.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 270.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 315.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+
+i=  82.84  alpha= 360.00
+  ii=           1    jj=           1    this ray goes through an empty space
+  max optical depth for this view angle
+ is:   0.00E+00
+

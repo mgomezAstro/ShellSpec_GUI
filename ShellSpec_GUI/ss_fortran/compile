@@ -1,0 +1,10 @@
+#!/bin/sh
+#to run the script: sh compile
+#
+#on linux
+#
+cp param.inc39 param.inc
+#
+#gfortran shellspec39.f -o shellspec
+gfortran -O2 shellspec39.f -o shellspec
+#gfortran -O2 -mcmodel=medium shellspec39.f -o shellspec 

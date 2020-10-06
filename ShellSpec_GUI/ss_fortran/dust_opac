@@ -1,0 +1,6 @@
+#ndust, idtab (Number of species, table format: 1-Budaj, 2-Semenov)
+1       1
+#dtlow [K] dthig [K] drmf  for each species, one per line
+5.     1500.    1.
+#file names with dust opacities of each species, one per line
+forsterite_opac_dm00
