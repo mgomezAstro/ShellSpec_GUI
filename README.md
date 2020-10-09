@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # ShellSpec_GUI
 ShellSpec_GUI is a Qt UI created to manage the code shellspec; designed to calculate lightcurves, spectra and images of interacting binaries and extrasolar planets immersed in a moving circumstellar matter (CM). The main program "shellspec" is maintined by Dr. Jan Budaj (ref; https://www.ta3.sk/~budaj/shellspec/). Please read the notes and instructions of the variables being used in ShellSpec_GUI (https://github.com/mgomezAstro/ShellSpec_GUI/blob/master/ShellSpec_GUI/ss_fortran/shellspec39.pdf). Also, take notes about preliminar files you may require to run the program using atmosphere models.
 
