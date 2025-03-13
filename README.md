@@ -8,9 +8,9 @@ ShellSpec_GUI is a Qt UI created to manage the code shellspec; designed to calcu
 So far I have tested the installation procedure in CentOS 7 and in Ubuntu 20.04 LTS.
 
 * gfortran
-* qmake
+* qmake (qt5-qmake)
 * make
-* qt5 (e.g., in Ubuntu "apt get install qt5-default")
+* qt5 (e.g., in Ubuntu "apt get install qtbase5-dev")
 
 ### Installation
 
